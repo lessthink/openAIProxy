@@ -1,4 +1,5 @@
 # openAI reverse proxy
+基于 Go 实现的 OpenAI HTTP 代理（云函数、自己部署均可）
 ### openAI reverse proxy（openAI API reverse proxy）,Support for streaming responses.
 ### openAI 反向代理（openAI API），支持流式响应。
 
